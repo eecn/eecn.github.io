@@ -4,7 +4,7 @@
   
   
   <entry>
-    <title>guanyujianchi</title>
+    <title>关于坚持</title>
     <link href="/2022/04/18/guanyujianchi/"/>
     <url>/2022/04/18/guanyujianchi/</url>
     
@@ -29,11 +29,11 @@
   
   
   <entry>
-    <title>test</title>
-    <link href="/2022/04/18/test/"/>
-    <url>/2022/04/18/test/</url>
+    <title>Hello World</title>
+    <link href="/2022/04/18/hello-world/"/>
+    <url>/2022/04/18/hello-world/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><div class="code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
     
@@ -42,13 +42,25 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2022/04/18/hello-world/"/>
-    <url>/2022/04/18/hello-world/</url>
+    <title>毕业</title>
+    <link href="/2020/06/19/biye/"/>
+    <url>/2020/06/19/biye/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><div class="code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>研究生三年时间很快，有收获，有遗憾，总的来说遗憾更多些。</p><span id="more"></span><p>入场踌躇满志，意气风发。出场结局平淡，些许遗憾。就个人的自我满足和充实而言。总结起来可以说是常怀一颗进取心，常行摸鱼打趣事。</p><p>毛伟人离家时写下“孩儿立志出乡关，学不成名誓不还。”的激扬文字，恰同学少年，风华正茂。我自不能企及半分，但是立足自己的规划还是有做过。之前开的公众号“研途Happy”也有做过些年度总结，学习规划等。然而一暴十寒。</p><p>利用闲暇之际给这个有些许遗憾的时光做一个总结。</p><p>无非两处，专业技能与综合修养。个人愚见，学习能力养成应是学习能力最重要的素养。深究一个研究方向有所建树最佳，期间养成适合自己的学习方法应该是研究生阶段最为重要的目标。要是给我的表现打分，十分满分只能得三四分。甚至于学习素养不及入学前的状态，三心二意没有认真做好一件科研工作。希望未来自己加油弥补遗憾。充实好未来的工作学习生活，我有信心。</p><p>说到自己的综合修养，相信自己能够比较好地适应小社会的生活。有人出世放飞自我，有人入世面善心伪，都有所体会，也为未来工作生活提供了经验。硕士期间两段感情都算是有些遗憾，是自己太作，在感情上还是不够成熟。今后切记不要意气用事，活的洒脱一些。要有男人该有的高亮品质和气节。</p><p>总觉的自己还是处于一个三观养成的阶段，应了屁股决定脑袋那句话。有很多关注到自己本身发展的东西都成了随波逐流。不忘初心方得始终，言之凿凿，行之艰难。写博客的想法也是希望自己可以坚持下来，给浮躁的自己一个冷静沉淀的时刻。</p><p>未来加油！</p><p>写于2020年6月19日</p>]]></content>
     
     
+    <categories>
+      
+      <category>读书</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>随笔</tag>
+      
+    </tags>
     
   </entry>
   
